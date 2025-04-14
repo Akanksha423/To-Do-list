@@ -1,2 +1,4 @@
-# To-Do-list
-A To-Do List web app built with HTML, CSS, and JavaScript allows users to add, delete, and mark tasks as completed. HTML provides the structure, CSS styles the app, and JavaScript adds interactivity. Users can enter tasks, remove them, or toggle their completion status with a simple click. 
+# Todo-List-App
+Build a Todo List App in HTML CSS JavaScript | EASY BEGINNER TUTORIAL
+
+This is the perfect project for beginner web developers who are looking to expand their knowledge of HTML CSS and JavaScript. This beginner JavaScript tutorial will teach you how to use local browser storage to create a fully functional todo list app!
